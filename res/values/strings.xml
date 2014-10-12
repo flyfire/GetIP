@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestHttp</string>
+    <string name="external">External IP:</string>
+    <string name="internal">Internal IP:</string>
+    <string name="mac">MAC Address:</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
