@@ -17,6 +17,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="org.solarex.getip.MainActivity"
+            android:configChanges="orientation|keyboardHidden"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
